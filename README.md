@@ -15,7 +15,7 @@ In this particular table, every badge reflects real data about the providers the
 | ForTheBadge | — | — | [![License](https://forthebadge.com/badges/license-mit.svg)](https://github.com/andrewsbarbaro/for-the-badge/blob/master/LICENSE) | — |
 | Shielded.dev | [![GitHub](https://img.shielded.dev/s?title=GitHub)](https://github.com/ShieldedDotDev/shieldeddotdev) | [![Stars](https://img.shielded.dev/s?title=Stars)](https://github.com/ShieldedDotDev/shieldeddotdev/stargazers) | [![License](https://img.shielded.dev/s?title=License)](https://github.com/ShieldedDotDev/shieldeddotdev/blob/master/LICENSE.md) | [![shielded.dev](https://img.shielded.dev/s?title=shielded.dev)](https://shielded.dev) |
 | PeakMark | [![GitHub](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22GitHub%22%2C%20%22color%22%3A%20%22%23181717%22%7D%5D&icon=github)](https://github.com/SinghAman21/peakmark) | [![Stars](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22Stars%22%2C%20%22color%22%3A%20%22%236e7681%22%7D%5D)](https://github.com/SinghAman21/peakmark/stargazers) | [![License](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22License%22%2C%20%22color%22%3A%20%22%236e7681%22%7D%5D)](https://github.com/SinghAman21/peakmark) | [![peakmark.vercel.app](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22peakmark.vercel.app%22%2C%20%22color%22%3A%20%22%230f172a%22%7D%5D)](https://peakmark.vercel.app/editor) |
-| Badges.ws | — | — | — | — |
+| Badges.ws | [![GitHub](https://badges.ws/badge/GitHub-informational?logo=github)](https://github.com/vladkens/badges) | [![Stars](https://badges.ws/github/stars/vladkens/badges)](https://github.com/vladkens/badges/stargazers) | [![License](https://badges.ws/github/license/vladkens/badges)](https://github.com/vladkens/badges/blob/main/LICENSE) | [![badges.ws](https://badges.ws/badge/badges.ws-informational)](https://badges.ws) |
 
 ## Social
 
@@ -27,7 +27,7 @@ In this particular table, every badge reflects real data about the providers the
 | ForTheBadge | — | — | — | — |
 | Shielded.dev | ![Reddit](https://img.shielded.dev/s?title=Reddit) | ![LinkedIn](https://img.shielded.dev/s?title=LinkedIn) | ![Facebook](https://img.shielded.dev/s?title=Facebook) | [![YouTube](https://img.shielded.dev/s?title=YouTube)](https://youtu.be/dQw4w9WgXcQ) |
 | PeakMark | ![Reddit](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22Reddit%22%2C%20%22color%22%3A%20%22%236e7681%22%7D%5D) | ![LinkedIn](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22LinkedIn%22%2C%20%22color%22%3A%20%22%230A66C2%22%7D%5D&icon=linkedin) | ![Facebook](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22Facebook%22%2C%20%22color%22%3A%20%22%236e7681%22%7D%5D) | [![YouTube](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22YouTube%22%2C%20%22color%22%3A%20%22%23FF0000%22%7D%5D&icon=youtube)](https://youtu.be/dQw4w9WgXcQ) |
-| Badges.ws | — | — | — | — |
+| Badges.ws | ![Reddit](https://badges.ws/badge/Reddit-informational?logo=reddit) | ![LinkedIn](https://badges.ws/badge/LinkedIn-informational) | ![Facebook](https://badges.ws/badge/Facebook-informational?logo=facebook) | [![YouTube](https://badges.ws/youtube/channel/subscribers/UC_x5XG1OV2P6uZZ5FSM9Ttw)](https://youtu.be/dQw4w9WgXcQ) |
 
 ## Languages
 
@@ -39,7 +39,7 @@ In this particular table, every badge reflects real data about the providers the
 | ForTheBadge | ![Python](https://forthebadge.com/badges/made-with-python.svg) | ![JavaScript](https://forthebadge.com/badges/made-with-javascript.svg) | ![Rust](https://forthebadge.com/badges/made-with-rust.svg) | ![Go](https://forthebadge.com/badges/made-with-go.svg) |
 | Shielded.dev | ![Python](https://img.shielded.dev/s?title=Python) | ![JavaScript](https://img.shielded.dev/s?title=JavaScript) | ![Rust](https://img.shielded.dev/s?title=Rust) | ![Go](https://img.shielded.dev/s?title=Go) |
 | PeakMark | ![Python](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22Python%22%2C%20%22color%22%3A%20%22%233776AB%22%7D%5D&icon=python) | ![JavaScript](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22JavaScript%22%2C%20%22color%22%3A%20%22%23F7DF1E%22%7D%5D&icon=javascript) | ![Rust](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22Rust%22%2C%20%22color%22%3A%20%22%23333333%22%7D%5D&icon=rust) | ![Go](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22Go%22%2C%20%22color%22%3A%20%22%2300ADD8%22%7D%5D&icon=go) |
-| Badges.ws | — | — | — | — |
+| Badges.ws | ![Python](https://badges.ws/badge/Python-informational?logo=python) | ![JavaScript](https://badges.ws/badge/JavaScript-informational?logo=javascript) | ![Rust](https://badges.ws/badge/Rust-informational?logo=rust) | ![Go](https://badges.ws/badge/Go-informational?logo=go) |
 
 ## Package managers
 
@@ -51,7 +51,7 @@ In this particular table, every badge reflects real data about the providers the
 | ForTheBadge | — | — | — | — |
 | Shielded.dev | ![npm](https://img.shielded.dev/s?title=npm) | ![PyPI](https://img.shielded.dev/s?title=PyPI) | ![Maven](https://img.shielded.dev/s?title=Maven) | ![Cargo](https://img.shielded.dev/s?title=Cargo) |
 | PeakMark | ![npm](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22npm%22%2C%20%22color%22%3A%20%22%23CB3837%22%7D%5D&icon=npm) | ![PyPI](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22PyPI%22%2C%20%22color%22%3A%20%22%236e7681%22%7D%5D) | ![Maven](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22Maven%22%2C%20%22color%22%3A%20%22%236e7681%22%7D%5D) | ![Cargo](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22Cargo%22%2C%20%22color%22%3A%20%22%23333333%22%7D%5D&icon=rust) |
-| Badges.ws | — | — | — | — |
+| Badges.ws | ![npm](https://badges.ws/npm/v/npm) | ![PyPI](https://badges.ws/pypi/v/pip) | — | ![Cargo](https://badges.ws/crates/v/serde) |
 
 ## Services
 
@@ -63,7 +63,7 @@ In this particular table, every badge reflects real data about the providers the
 | ForTheBadge | — | — | — | — |
 | Shielded.dev | ![Cloudflare](https://img.shielded.dev/s?title=Cloudflare) | ![Docker Hub](https://img.shielded.dev/s?title=Docker+Hub) | ![AWS](https://img.shielded.dev/s?title=AWS) | ![Codex](https://img.shielded.dev/s?title=Codex) |
 | PeakMark | ![Cloudflare](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22Cloudflare%22%2C%20%22color%22%3A%20%22%236e7681%22%7D%5D) | ![Docker Hub](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22Docker%20Hub%22%2C%20%22color%22%3A%20%22%232496ED%22%7D%5D&icon=docker) | ![AWS](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22AWS%22%2C%20%22color%22%3A%20%22%23232F3E%22%7D%5D&icon=amazonwebservices) | ![Codex](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22Codex%22%2C%20%22color%22%3A%20%22%236e7681%22%7D%5D) |
-| Badges.ws | — | — | — | — |
+| Badges.ws | ![Cloudflare](https://badges.ws/badge/Cloudflare-informational?logo=cloudflare) | ![Docker Hub](https://badges.ws/docker/pulls/library/node) | ![AWS](https://badges.ws/badge/AWS-informational) | ![Codex](https://badges.ws/badge/Codex-informational?logo=openai) |
 
 ## Custom variants
 
@@ -77,7 +77,7 @@ The goal of this table is to show different levels of customisation. We use each
 | ForTheBadge | ![License](https://forthebadge.com/badges/license-mit.svg) | ![License](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=LICENSE&secondaryLabel=MIT&primaryBGColor=%23F5F5F0&primaryTextColor=%23333333&secondaryBGColor=%23D9D9D9&secondaryTextColor=%23333333) | ![License](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=LICENSE&secondaryLabel=MIT&primaryBGColor=%230F172A&primaryTextColor=%23FFFFFF&secondaryBGColor=%2314B8A6&secondaryTextColor=%23000000) | ![License](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=LICENSE&secondaryLabel=MIT&primaryBGColor=%23FF00FF&primaryTextColor=%23000000&secondaryBGColor=%2300FFEA&secondaryTextColor=%23000000) |
 | Shielded.dev | ![License](https://img.shielded.dev/s?title=License&text=MIT) | ![License](https://img.shielded.dev/s?title=License&text=MIT&color=D9D9D9) | ![License](https://img.shielded.dev/s?title=License&text=MIT&color=14B8A6) | ![License](https://img.shielded.dev/s?title=License&text=MIT&color=00FFEA) |
 | PeakMark | ![License](https://peakmark.vercel.app/api/badge?style=flat&segments=%5B%7B%22text%22%3A%20%22License%22%2C%20%22color%22%3A%20%22%236e7681%22%7D%5D) | ![License](https://peakmark.vercel.app/api/badge?style=rounded&segments=%5B%7B%22text%22%3A%20%22LICENSE%22%2C%20%22color%22%3A%20%22%23F5F5F0%22%7D%2C%20%7B%22text%22%3A%20%22MIT%22%2C%20%22color%22%3A%20%22%23D9D9D9%22%7D%5D) | ![License](https://peakmark.vercel.app/api/badge?style=folded&segments=%5B%7B%22text%22%3A%20%22LICENSE%22%2C%20%22color%22%3A%20%22%230F172A%22%7D%2C%20%7B%22text%22%3A%20%22MIT%22%2C%20%22color%22%3A%20%22%2314B8A6%22%7D%5D) | ![License](https://peakmark.vercel.app/api/badge?style=for-the-badge&segments=%5B%7B%22text%22%3A%20%22LICENSE%22%2C%20%22color%22%3A%20%22%23FF00FF%22%7D%2C%20%7B%22text%22%3A%20%22MIT%22%2C%20%22color%22%3A%20%22%2300FFEA%22%7D%5D&advanced=%7B%22glow%22%3A%200.8%2C%20%22shadow%22%3A%203%2C%20%22shadowAngle%22%3A%20135%2C%20%22rotate%22%3A%20-5%2C%20%22scale%22%3A%201.1%7D) |
-| Badges.ws | — | — | — | — |
+| Badges.ws | ![License](https://badges.ws/github/license/vladkens/badges) | ![License](https://badges.ws/github/license/vladkens/badges?labelColor=F5F5F0&color=D9D9D9) | ![License](https://badges.ws/github/license/vladkens/badges?labelColor=0F172A&color=14B8A6) | ![License](https://badges.ws/github/license/vladkens/badges?labelColor=FF00FF&color=00FFEA) |
 
 ## Maintenance
 
