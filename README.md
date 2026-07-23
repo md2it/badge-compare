@@ -11,7 +11,7 @@
 | Badgen | [![GitHub](https://badgen.net/badge/GitHub/-?icon=github)](https://github.com/badgen/badgen.net) | [![Stars](https://badgen.net/github/stars/badgen/badgen.net)](https://github.com/badgen/badgen.net/stargazers) | [![License](https://badgen.net/github/license/badgen/badgen.net)](https://github.com/badgen/badgen.net/blob/main/LICENSE.md) | [![Website](https://badgen.net/badge/Website/-)](https://badgen.net) |
 | ForTheBadge | — | — | [![License](https://forthebadge.com/badges/license-mit.svg)](https://github.com/andrewsbarbaro/for-the-badge/blob/master/LICENSE) | — |
 | Shielded.dev | [![GitHub](https://img.shielded.dev/s?title=GitHub)](https://github.com/ShieldedDotDev/shieldeddotdev) | [![Stars](https://img.shielded.dev/s?title=Stars)](https://github.com/ShieldedDotDev/shieldeddotdev/stargazers) | [![License](https://img.shielded.dev/s?title=License)](https://github.com/ShieldedDotDev/shieldeddotdev/blob/master/LICENSE.md) | [![Website](https://img.shielded.dev/s?title=Website)](https://shielded.dev) |
-| ShieldCN | [![GitHub](https://shieldcn.dev/badge/GitHub.svg)](https://github.com/jal-co/shieldcn) | [![Stars](https://shieldcn.dev/github/stars/jal-co/shieldcn.svg)](https://github.com/jal-co/shieldcn/stargazers) | [![License](https://shieldcn.dev/github/license/jal-co/shieldcn.svg)](https://github.com/jal-co/shieldcn/blob/main/LICENSE) | [![Website](https://shieldcn.dev/badge/Website.svg)](https://shieldcn.dev) |
+| ShieldCN | [![GitHub](https://shieldcn.dev/badge/GitHub.svg?logo=github)](https://github.com/jal-co/shieldcn) | [![Stars](https://shieldcn.dev/github/stars/jal-co/shieldcn.svg)](https://github.com/jal-co/shieldcn/stargazers) | [![License](https://shieldcn.dev/github/license/jal-co/shieldcn.svg)](https://github.com/jal-co/shieldcn/blob/main/LICENSE) | [![Website](https://shieldcn.dev/badge/Website.svg)](https://shieldcn.dev) |
 
 ## Social
 
@@ -21,7 +21,7 @@
 | Badgen | ![Reddit](https://badgen.net/badge/Reddit/-?icon=reddit) | ![LinkedIn](https://badgen.net/badge/LinkedIn/-) | ![Facebook](https://badgen.net/badge/Facebook/-?icon=facebook) | [![YouTube](https://badgen.net/badge/YouTube/-?icon=youtube)](https://youtu.be/dQw4w9WgXcQ) |
 | ForTheBadge | — | — | — | — |
 | Shielded.dev | ![Reddit](https://img.shielded.dev/s?title=Reddit) | ![LinkedIn](https://img.shielded.dev/s?title=LinkedIn) | ![Facebook](https://img.shielded.dev/s?title=Facebook) | [![YouTube](https://img.shielded.dev/s?title=YouTube)](https://youtu.be/dQw4w9WgXcQ) |
-| ShieldCN | ![Reddit](https://shieldcn.dev/badge/Reddit.svg) | ![LinkedIn](https://shieldcn.dev/badge/LinkedIn.svg) | ![Facebook](https://shieldcn.dev/badge/Facebook.svg) | [![YouTube](https://shieldcn.dev/badge/YouTube.svg)](https://youtu.be/dQw4w9WgXcQ) |
+| ShieldCN | ![Reddit](https://shieldcn.dev/badge/Reddit.svg?logo=reddit) | ![LinkedIn](https://shieldcn.dev/badge/LinkedIn.svg?logo=ri:FaLinkedin) | ![Facebook](https://shieldcn.dev/badge/Facebook.svg?logo=facebook) | [![YouTube](https://shieldcn.dev/badge/YouTube.svg?logo=youtube)](https://youtu.be/dQw4w9WgXcQ) |
 
 ## Languages
 
@@ -31,7 +31,7 @@
 | Badgen | ![Python](https://badgen.net/badge/Python/-?icon=python) | ![JavaScript](https://badgen.net/badge/JavaScript/-?icon=javascript) | ![Rust](https://badgen.net/badge/Rust/-?icon=rust) | ![Go](https://badgen.net/badge/Go/-?icon=go) |
 | ForTheBadge | ![Python](https://forthebadge.com/badges/made-with-python.svg) | ![JavaScript](https://forthebadge.com/badges/made-with-javascript.svg) | ![Rust](https://forthebadge.com/badges/made-with-rust.svg) | ![Go](https://forthebadge.com/badges/made-with-go.svg) |
 | Shielded.dev | ![Python](https://img.shielded.dev/s?title=Python) | ![JavaScript](https://img.shielded.dev/s?title=JavaScript) | ![Rust](https://img.shielded.dev/s?title=Rust) | ![Go](https://img.shielded.dev/s?title=Go) |
-| ShieldCN | ![Python](https://shieldcn.dev/badge/Python.svg) | ![JavaScript](https://shieldcn.dev/badge/JavaScript.svg) | ![Rust](https://shieldcn.dev/badge/Rust.svg) | ![Go](https://shieldcn.dev/badge/Go.svg) |
+| ShieldCN | ![Python](https://shieldcn.dev/badge/Python.svg?logo=python) | ![JavaScript](https://shieldcn.dev/badge/JavaScript.svg?logo=javascript) | ![Rust](https://shieldcn.dev/badge/Rust.svg?logo=rust) | ![Go](https://shieldcn.dev/badge/Go.svg?logo=go) |
 
 ## Package managers
 
@@ -41,7 +41,7 @@
 | Badgen | ![npm](https://badgen.net/npm/v/badgen?icon=npm) | ![PyPI](https://badgen.net/pypi/v/pip?icon=pypi) | ![Maven](https://badgen.net/maven/v/metadata-url/repo1.maven.org/maven2/com/google/guava/guava/maven-metadata.xml?icon=apachemaven) | ![Cargo](https://badgen.net/crates/v/serde?icon=rust) |
 | ForTheBadge | — | — | — | — |
 | Shielded.dev | ![npm](https://img.shielded.dev/s?title=npm) | ![PyPI](https://img.shielded.dev/s?title=PyPI) | ![Maven](https://img.shielded.dev/s?title=Maven) | ![Cargo](https://img.shielded.dev/s?title=Cargo) |
-| ShieldCN | ![npm](https://shieldcn.dev/npm/npm.svg) | ![PyPI](https://shieldcn.dev/pypi/pip.svg) | ![Maven](https://shieldcn.dev/maven/com.google.guava/guava.svg) | ![Cargo](https://shieldcn.dev/crates/serde.svg) |
+| ShieldCN | ![npm](https://shieldcn.dev/npm/npm.svg?logo=npm) | ![PyPI](https://shieldcn.dev/pypi/pip.svg?logo=pypi) | ![Maven](https://shieldcn.dev/maven/com.google.guava/guava.svg?logo=apachemaven) | ![Cargo](https://shieldcn.dev/crates/serde.svg?logo=rust) |
 
 ## Services
 
@@ -51,7 +51,7 @@
 | Badgen | ![Cloudflare](https://badgen.net/badge/Cloudflare/-?icon=cloudflare) | ![Docker Hub](https://badgen.net/docker/pulls/library/node?icon=docker) | ![AWS](https://badgen.net/badge/AWS/-) | ![Codex](https://badgen.net/badge/Codex/-) |
 | ForTheBadge | — | — | — | — |
 | Shielded.dev | ![Cloudflare](https://img.shielded.dev/s?title=Cloudflare) | ![Docker Hub](https://img.shielded.dev/s?title=Docker+Hub) | ![AWS](https://img.shielded.dev/s?title=AWS) | ![Codex](https://img.shielded.dev/s?title=Codex) |
-| ShieldCN | ![Cloudflare](https://shieldcn.dev/badge/Cloudflare.svg) | ![Docker Hub](https://shieldcn.dev/docker/pulls/library/node.svg) | ![AWS](https://shieldcn.dev/badge/AWS.svg) | ![Codex](https://shieldcn.dev/badge/Codex.svg) |
+| ShieldCN | ![Cloudflare](https://shieldcn.dev/badge/Cloudflare.svg?logo=cloudflare) | ![Docker Hub](https://shieldcn.dev/docker/pulls/library/node.svg?logo=docker) | ![AWS](https://shieldcn.dev/badge/AWS.svg?logo=ri:FaAws) | ![Codex](https://shieldcn.dev/badge/Codex.svg?logo=ri:TbBrandOpenai) |
 
 ## README maintenance rules
 
