@@ -53,14 +53,6 @@
 | ForTheBadge | — | — | — | — |
 | Shielded.dev | ![Cloudflare](https://img.shielded.dev/s?title=Cloudflare) | ![Docker Hub](https://img.shielded.dev/s?title=Docker+Hub) | ![AWS](https://img.shielded.dev/s?title=AWS) | ![Codex](https://img.shielded.dev/s?title=Codex) |
 
-## README maintenance rules
+## Maintenance
 
-- Every table uses the same ordered set of sources and four badge columns.
-- One column represents one badge use case; a cell contains the rendered default badge itself or `—`.
-- `—` means the source does not provide a direct, canonical badge for that use case.
-- Missing badges or logos are intentional: `—` makes differences in each source's built-in coverage visible.
-- Use default appearance only: no theme, colour, label, or text customisation.
-- A brand logo/icon is allowed, and encouraged, when the source offers it through a standard built-in mechanism (e.g. a named icon/logo parameter backed by its own icon set) — this is not customisation, it is using the source's default capability fully. Uploading or embedding a custom image is still forbidden.
-- A badge that renders as plain text when the source could natively show the matching brand icon is under-using that source's default capability and should be fixed.
-- In **Providers themself**, use canonical examples and data from the source itself whenever available.
-- Keep the table width within GitHub's README frame. Split a category into additional tables instead of adding columns.
+See [contribution guidelines](CONTRIBUTING.md).
