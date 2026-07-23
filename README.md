@@ -5,6 +5,8 @@
 
 ## Providers themself
 
+In this particular table, every badge reflects real data about the providers themselves and links to their own official resources.
+
 | Source | GitHub | Stars | License | Website |
 | --- | --- | --- | --- | --- |
 | Shields.io | [![GitHub](https://img.shields.io/badge/GitHub-informational?logo=github)](https://github.com/badges/shields) | [![Stars](https://img.shields.io/github/stars/badges/shields)](https://github.com/badges/shields/stargazers) | [![License](https://img.shields.io/github/license/badges/shields)](https://github.com/badges/shields/blob/master/LICENSE-APACHE) | [![shields.io](https://img.shields.io/badge/shields.io-informational)](https://shields.io/badges) |
@@ -52,6 +54,18 @@
 | ShieldCN | ![Cloudflare](https://shieldcn.dev/badge/Cloudflare.svg?logo=cloudflare) | ![Docker Hub](https://shieldcn.dev/docker/pulls/library/node.svg?logo=docker) | ![AWS](https://shieldcn.dev/badge/AWS.svg?logo=ri:FaAws) | ![Codex](https://shieldcn.dev/badge/Codex.svg?logo=ri:TbBrandOpenai) |
 | ForTheBadge | — | — | — | — |
 | Shielded.dev | ![Cloudflare](https://img.shielded.dev/s?title=Cloudflare) | ![Docker Hub](https://img.shielded.dev/s?title=Docker+Hub) | ![AWS](https://img.shielded.dev/s?title=AWS) | ![Codex](https://img.shielded.dev/s?title=Codex) |
+
+## Custom variants
+
+The goal of this table is to show different levels of customisation. We use each provider's "License" badge, since it is the badge best supported across providers.
+
+| Source | default | light & beautiful | dark & beautiful | bright & freaky |
+| --- | --- | --- | --- | --- |
+| Shields.io | ![License](https://img.shields.io/github/license/badges/shields) | ![License](https://img.shields.io/github/license/badges/shields?style=flat&labelColor=F5F5F0&color=D9D9D9) | ![License](https://img.shields.io/github/license/badges/shields?style=flat&labelColor=0F172A&color=14B8A6) | ![License](https://img.shields.io/github/license/badges/shields?style=for-the-badge&labelColor=FF00FF&color=00FFEA) |
+| Badgen | ![License](https://badgen.net/github/license/badges/shields) | ![License](https://badgen.net/github/license/badges/shields?labelColor=F5F5F0&color=D9D9D9) | ![License](https://badgen.net/github/license/badges/shields?labelColor=0F172A&color=14B8A6) | ![License](https://badgen.net/github/license/badges/shields?labelColor=FF00FF&color=00FFEA) |
+| ShieldCN | ![License](https://shieldcn.dev/github/license/jal-co/shieldcn.svg) | ![License](https://shieldcn.dev/github/license/jal-co/shieldcn.svg?labelColor=F5F5F0&color=D9D9D9) | ![License](https://shieldcn.dev/github/license/jal-co/shieldcn.svg?labelColor=0F172A&color=14B8A6) | ![License](https://shieldcn.dev/github/license/jal-co/shieldcn.svg?gradient=FF00FF,00FFEA,45) |
+| ForTheBadge | ![License](https://forthebadge.com/badges/license-mit.svg) | ![License](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=LICENSE&secondaryLabel=MIT&primaryBGColor=%23F5F5F0&primaryTextColor=%23333333&secondaryBGColor=%23D9D9D9&secondaryTextColor=%23333333) | ![License](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=LICENSE&secondaryLabel=MIT&primaryBGColor=%230F172A&primaryTextColor=%23FFFFFF&secondaryBGColor=%2314B8A6&secondaryTextColor=%23000000) | ![License](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=LICENSE&secondaryLabel=MIT&primaryBGColor=%23FF00FF&primaryTextColor=%23000000&secondaryBGColor=%2300FFEA&secondaryTextColor=%23000000) |
+| Shielded.dev | ![License](https://img.shielded.dev/s?title=License&text=MIT) | ![License](https://img.shielded.dev/s?title=License&text=MIT&color=D9D9D9) | ![License](https://img.shielded.dev/s?title=License&text=MIT&color=14B8A6) | ![License](https://img.shielded.dev/s?title=License&text=MIT&color=00FFEA) |
 
 ## Maintenance
 
